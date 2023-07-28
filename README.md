@@ -1,5 +1,5 @@
-# _Raganork-multi-device_
-## _Multi device whatsapp bot created with [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys)_
+# _Yehan-multi-device_
+## _Multi device whatsapp bot created with node.js creator - Yehan Pabasara
   
 <div align="center">
    
@@ -53,10 +53,7 @@ Now the bot will start working
 ```
 
 <div align="center">
-
-## _[Koyeb: How to deploy](https://github.com/souravkl11/raganork-md/wiki/Deploying-with-Koyeb)_
-
-## _[Basic usage helper](https://github.com/souravkl11/raganork-md/wiki/Raganork-Documentation)_
+# Any problem Contact Me - 0764470256 -On Whatsapp
 
 <div align="left">
 
